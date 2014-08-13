@@ -8,6 +8,9 @@ We are 6 months fresh out of a successful public launch, have closed a seed roun
 Our technology
 ===============
 
+With publisher contracts, rights to 21 textbooks, a small team, and an MVP built on the Magento Community Edition ecommerce platform, Packback launched a pilot of this offering in August 2013.
+
+We are sunsetting the Magento application, building new projects for each business function, and embracing the frameworks, tools and best-practices that help us get the job done well. **We want your help.**
 
 
 Opportunities
