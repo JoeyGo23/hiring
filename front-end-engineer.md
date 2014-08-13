@@ -1,4 +1,4 @@
-Front-end Engineer at Packback
+Front End Engineer at Packback
 --------------
 
 This tour of duty will primarily see you leading a project of translating the markup and styles of our current MVP to a responsive, optimized project. Beyond that, we hope that you will continue to identify opportunities for improvement within our projects and process, as well as promote the technical best practices and techniques that you learn along the way.
