@@ -29,3 +29,5 @@ We also like talking to people who enjoy…
 how to apply
 
 Please email jobs@packback.co with your resume and website/portfolio (dribble, github, etc).
+
+*Relocation assistance available to qualified candidates*
