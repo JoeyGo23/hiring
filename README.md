@@ -12,6 +12,7 @@ With publisher contracts, rights to 21 textbooks, a small team, and an MVP built
 
 We are sunsetting the Magento application, building new projects for each business function, and embracing the frameworks, tools and best-practices that help us get the job done well. **We want your help.**
 
+*Relocation assistance available to qualified candidates*
 
 Opportunities
 --------------
