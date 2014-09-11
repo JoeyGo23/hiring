@@ -29,4 +29,4 @@ A 50 minute interview with operational leadership. This interview is designed to
 
 Follow-up
 ----------
-After the in-person interview the team will meet to discuss final thoughts and impressions of the candidate's performance throughout the entire process, with a goal of cooridinating the next steps; offer or future engagement plans.
+After the in-person interview the team will meet to discuss final thoughts and impressions of the candidate's performance throughout the entire process, with a goal of coordinating the next steps; offer or future engagement plans.
