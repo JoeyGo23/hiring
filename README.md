@@ -17,8 +17,8 @@ We are sunsetting the Magento application, building new projects for each busine
 Opportunities
 --------------
 
-- [Front End Engineer](front-end-engineer.md)
-- [Front End Contract](front-end-contract.md)
+- [Front End Engineer (Full-time)](front-end-engineer.md)
+- [Front End Engineer (Contract)](front-end-contract.md)
 
 If you are interested, read about [our hiring process](process.md) and then email jobs@packback.co with your resume and website/portfolio (dribble, github, etc).
 
