@@ -3,7 +3,7 @@ Front End Engineer at Packback
 
 This tour of duty will primarily see you leading a project of translating the markup and styles of our current MVP to a responsive, optimized project. Beyond that, we hope that you will continue to identify opportunities for improvement within our projects and process, as well as promote the technical best practices and techniques that you learn along the way.
  
-There is more than enough engineering jargon enclosed, but essentially we’re seeking a smart person who strives to learn new skills, and the communication skills to be able to engage with non-engineering team members.
+There is more than enough engineering jargon enclosed, but essentially we’re seeking a smart person who strives to learn new skills, and one with the communication skills to be able to engage with non-engineering team members.
  
 In addition to engineering prowess, we need a person that gets it - a person who can figure things out for themselves but knows when seek assistance when things get tough.
  
