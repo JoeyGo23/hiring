@@ -16,9 +16,6 @@ Our engineering team at Packback is growing and we're looking for a dynamic soft
 - Agile product team experience
 - Open source experience with a variety of technologies
 
-### Projects
-- Supporting our Senior Backend Engineer in developing new APIs and supporting existing infrasturcture
-
 Interested? We'd like to speak with you. Simply email jobs@packback.co with your resume and a link to your Github profile.
 
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
