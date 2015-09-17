@@ -1,26 +1,23 @@
 ## Backend PHP Engineer
 
-Our engineering team at Packback is growing and we're looking for a Backend Engineer with an interest in supporting both our DevOps and Product efforts. You will need to be comfortable with server side scripting, automated deployments, and continuous integration as well as writing PHP code in an MVC framework.
+Our engineering team at Packback is growing and we're looking for a dynamic software engineer with an interest in supporting our new and existing products. You will need to be comfortable working in a test-driven environment with PHP and MVC frameworks ([Laravel](http://laravel.com/) preferred) and able to contribute in a variety of ways to our small but growing team.
 
 ### Required Skills
-- 3-5 years with PHP MVC Frameworks (Laravel preferred)
-- Building enterprise scale web applications
-- Codeception or PHPUnit testing
-- Bash scripting
-- Automated deployments
-- PSR Coding standards
+- 3-5 years with PHP MVC Frameworks
+- Experience building enterprise scale web applications (100k+ pageviews/month)
+- Writing unit tests with Codeception or PHPUnit
+- Adhering to PSR Coding standards
+- Creating RESTful web services
+- Queries using raw MySQL or an ORM like Eloquent
 
 ### Nice to Haves
-- Chef, Puppet, or Docker
 - Familiarity with service oriented architecture
-- Experience with microservice architecture
+- Experience with microservices
 - Agile product team experience
 - Open source experience with a variety of technologies
 
 ### Projects
 - Supporting our Senior Backend Engineer in developing new APIs and supporting existing infrasturcture
-- Setting up and managing queue servers
-- Setting up caching in Laravel PHP projects
 
 Interested? We'd like to speak with you. Simply email jobs@packback.co with your resume and a link to your Github profile.
 
